@@ -1,4 +1,4 @@
-# Python program to Plot Circle
+# Python program to Plot Circle - Tharun 
 
 # importing libraries
 import numpy as np
